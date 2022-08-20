@@ -8,7 +8,7 @@ I've been coding from a young age. Dabbled in cisco networking, machine learning
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [obipedrochinomso@gmail.com](mailto:obipedrochinomso@gmail.com)
-* 🧠  I'm learning how to design and build scalable event driven backend systems
+* 🧠  I'm learning how to Design and Build Scalable Event Driven Backend Systems
 * 🤝  I'm open to collaborating on building highly efficient software
 
 ### Skills
