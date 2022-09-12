@@ -1,12 +1,12 @@
 Hi 👋 My name is Obi Pedro Chinomso
 ===================================
 
-Backend Engineer
+Fullstack Software Developer
 ----------------
 
-I've been coding from a young age. Dabbled in cisco networking, machine learning, and mobile development, now focused on building backend systems. I have a high affinity for writing code and hope to use code someday to improve the standard of living of humanity.
+I love anything technology. Dabbled in cisco networking, machine learning, and mobile development, now focused on building  fullstack applications. I have a high affinity towards writing code and hope to use code someday to improve the standard of living of humanity.
 
-* 🌍  I'm based on planet earth
+* 🌍  I live on planet earth
 * ✉️  You can contact me at [obipedrochinomso@gmail.com](mailto:obipedrochinomso@gmail.com)
 * 🤝  I'm open to having fun building software
 
