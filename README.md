@@ -1,7 +1,7 @@
 Hi 👋 My name is Obi Pedro Chinomso
 ===================================
 
-Fullstack Software Developer
+Software Engineer
 ----------------
 
 I love anything technology. Dabbled in cisco networking, machine learning, and mobile development, now focused on building  fullstack applications. I have a high affinity towards writing code and hope to use code someday to improve the standard of living of humanity.
