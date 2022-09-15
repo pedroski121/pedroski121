@@ -4,7 +4,7 @@ Hi 👋 My name is Obi Pedro Chinomso
 Software Engineer
 ----------------
 
-I love anything technology. Dabbled in cisco networking, machine learning, and mobile development, now focused on building  fullstack applications. I have a high affinity towards writing code and hope to use code someday to improve the standard of living of humanity.
+I love anything technology. Dabbled in cisco networking and machine learnin now focused on software development. I have a high affinity towards writing code and hope to use code someday to improve the standard of living of humanity.
 
 * 🌍  I live on planet earth
 * ✉️  You can contact me at [obipedrochinomso@gmail.com](mailto:obipedrochinomso@gmail.com)
