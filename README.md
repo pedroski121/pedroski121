@@ -6,7 +6,7 @@ Software Engineer
 
 I love anything technology. Dabbled in cisco networking and machine learnin now focused on software development. I have a high affinity towards writing code and hope to use code someday to improve the standard of living of humanity.
 
-* 🌍  I live on planet earth
+* 🌍  I am from the planet earth
 * ✉️  You can contact me at [obipedrochinomso@gmail.com](mailto:obipedrochinomso@gmail.com)
 * 🤝  I'm open to having fun building software
 
