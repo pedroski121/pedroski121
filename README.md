@@ -8,7 +8,7 @@ I'm your typical tech-bro. Having first laid my hands on a computer at a tender 
 
 * 🌍  I am from the planet earth
 * ✉️  You can contact me at [obipedrochinomso@gmail.com](mailto:obipedrochinomso@gmail.com)
-* 🤝  I'm open to having fun building software
+* 🤝  I'm open to collabrating to build some great software
 
 ### Skills
 
