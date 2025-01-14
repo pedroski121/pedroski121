@@ -16,6 +16,6 @@ I'm your typical tech-bro. Having first laid my hands on a computer at a tender 
 
 ### Socials
 
-<p align="left"><a href="https://www.linkedin.com/in/pedro-chinomso-obi-4422b8191" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ped_aii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/pedro-chinomso-obi-4422b8191" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 
 
